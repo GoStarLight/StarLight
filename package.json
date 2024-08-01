@@ -23,7 +23,7 @@
   "dependencies": {
     "@mercuryworkshop/bare-mux": "^2.0.4",
     "@mercuryworkshop/bare-as-module3": "^2.2.2",
-    "@tomphttp/bare-server-node": "2.0.3",
+    "@tomphttp/bare-server-node": "2.0.4",
     "express": "^4.19.2",
     "express-basic-auth": "^1.2.1",
     "wisp-server-node": "^1.1.3"
